@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class SearchInsert {
     public static int searchInsert(int[] nums, int target) {
         if (target < nums[0])
@@ -33,5 +35,6 @@ public class SearchInsert {
         int[] nums1 = {3,5,7,9,10};
         //System.out.println(searchInsert(nums,5));
         System.out.println(searchInsert(nums1,8));
+
     }
 }

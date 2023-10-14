@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anagram/Anagram.iml" filepath="$PROJECT_DIR$/Anagram/Anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EliminationGame/EliminationGame.iml" filepath="$PROJECT_DIR$/EliminationGame/EliminationGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindTheDifference/FindTheDifference.iml" filepath="$PROJECT_DIR$/FindTheDifference/FindTheDifference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LitCode.iml" filepath="$PROJECT_DIR$/.idea/LitCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxProfit/MaxProfit.iml" filepath="$PROJECT_DIR$/MaxProfit/MaxProfit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.iml" filepath="$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSortedArrays/MergeSortedArrays.iml" filepath="$PROJECT_DIR$/MergeSortedArrays/MergeSortedArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeStringsAlternatly/MergeStringsAlternatly.iml" filepath="$PROJECT_DIR$/MergeStringsAlternatly/MergeStringsAlternatly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlusOne/PlusOne.iml" filepath="$PROJECT_DIR$/PlusOne/PlusOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReapetedSubstrPattern/ReapetedSubstrPattern.iml" filepath="$PROJECT_DIR$/ReapetedSubstrPattern/ReapetedSubstrPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
+    </modules>
+  </component>
+</project>
